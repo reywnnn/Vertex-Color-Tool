@@ -1,11 +1,9 @@
-# Vertex Color Tool (Blender 4.5.x)
+# Vertex Color Tool for Blender 4.5.2
 
 A Blender addon for fast and intuitive vertex color painting.  
 Allows you to prepare vertex color materials, apply colors to selected vertices, adjust brightness, and toggle viewport shading to display vertex colors.
 
-**Author:** Pavel Círus (Reywn)  
-**Version:** 1.0.3  
-**Blender Version:** 4.5.2+
+**Author:** Pavel Círus  
 
 ---
 
@@ -35,5 +33,6 @@ Allows you to prepare vertex color materials, apply colors to selected vertices,
 
 1. Download the `.py` file:
 2. In Blender: Edit → Preferences → Add-ons → Install from Disk... `.py` file.
+
 
 
