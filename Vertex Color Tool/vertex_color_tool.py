@@ -1,6 +1,6 @@
 """
 
-Vertex Color Tool Plugin For Blender 4.5.x
+Vertex Color Tool Plugin For Blender 4.5.2
 
     - Previous versions not tested.
     - Tool for coloring vertices with vertex colors, includes material setup and viewport toggle.
