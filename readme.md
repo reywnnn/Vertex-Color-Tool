@@ -34,5 +34,6 @@ Allows you to prepare vertex color materials, apply colors to selected vertices,
 ## Installation
 
 1. Download the `.py` file:
-2. In Blender: Edit -> Preferences -> Add-ons -> Install from Disk... `.py` file.
-3. Enjoy.
+2. In Blender: Edit → Preferences → Add-ons → Install from Disk... `.py` file.
+
+
