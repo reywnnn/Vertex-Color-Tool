@@ -32,12 +32,14 @@ It allows you to prepare vertex color materials, apply colors to selected vertic
 
 - **UI Integration**
   - Located in **View3D → Sidebar → Vertex Color Tool**
+  - Hotkey: **N**
 
 ---
 
 ## Installation
 
-1. Download the `.py` file.
-2. In Blender, go to **Edit → Preferences → Add-ons → Install from Disk...**
-3. Select the `.py` file and install the addon.
-4. Enable **Vertex Color Tool** in the Add-ons list.
+1. Download the latest `.zip` package.
+2. In Blender, go to **Edit → Preferences → Add-ons**.
+3. Click the **▼** menu in the top-right corner and select **Install from Disk...**
+4. Select the downloaded `.zip` file.
+5. Enable **Vertex Color Tool** in the Add-ons list.
