@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+*.blend1
+*.code-workspace
+*.ps1
+.vscode/
+.idea/
+.build_number

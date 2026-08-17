@@ -1,0 +1,37 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Author: Pavel Círus
+
+
+
+schema_version = "1.0.0"
+
+id = "vertex_color_tool"
+version = "1.8.0"
+name = "Vertex Color Tool"
+tagline = "Paint and manage Vertex Colors directly on mesh in Edit Mode"
+maintainer = "Pavel Círus (Paul)"
+
+type = "add-on"
+
+# minimum supported Blender version
+blender_version_min = "5.0.1"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+copyright = [
+    "2026 Pavel Círus, All Rights Reserved.",
+]
+
+tags = ["Mesh", "Material", "Paint"]
+
+[build]
+paths_exclude_pattern = [
+    "*.blend1",
+    "__pycache__/",
+    ".*",
+    "*.zip",
+    "*.ps1",
+    ".build_number",
+    "*.code-workspace",
+    ".vscode/",
+]
